@@ -55,7 +55,7 @@
     "graphql-type-datetime": "^0.2.4",
     "jszip": "^3.6.0",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.33",
+    "moment-timezone": "^0.5.35",
     "ngx-moment": "^3.5.0",
     "resize-observer-polyfill": "^1.5.1",
     "rxjs": "^6.6.7",
