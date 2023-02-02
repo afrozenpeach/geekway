@@ -53,7 +53,7 @@
     "flipclock": "^0.10.8",
     "graphql": "^15.5.1",
     "graphql-type-datetime": "^0.2.4",
-    "jszip": "^3.6.0",
+    "jszip": "^3.8.0",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.33",
     "ngx-moment": "^3.5.0",
